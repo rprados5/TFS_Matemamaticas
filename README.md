@@ -1,2 +1,3 @@
-# TFS
-Repositorio para el TFS del grado de matematicas de Rafael Prados Martínez
+# TFS del grado de matematicas 
+Autor: Rafael Prados Martínez
+
