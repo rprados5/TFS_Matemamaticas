@@ -2,4 +2,5 @@
 
 Autor: Rafael Prados Martínez
 
-Este repositorio continien los archivos y los fuentes necesarios para realizar el modelo qeu propone el TFS.
+Este repositorio continien los archivos y los fuentes necesarios para realizar el modelo que propone el TFS. La estructura del repositorioo es la siguiente:
+* CSVs.
