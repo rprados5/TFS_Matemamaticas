@@ -1,0 +1,26 @@
+;;;;;;;;;;;;;;;;
+;Código;Tipo de foco;País;CCAA;Provincia;Comarca Ganadera (en focos nacionales);Región (en focos extranjeros);Municipio;UVL;Enfermedad;Nº de Especies Afectadas;Serotipo;Especie;Sensibles;Afectados;Fecha de confirmación
+;2021/171 ;Secundario;España;EXTREMADURA;BADAJOZ;BADAJOZ;;Badajoz;Badajoz;Lengua azul;1;04;Caprinos;368;0;09/12/2021
+;2021/170 ;Secundario;España;EXTREMADURA;BADAJOZ;CASTUERA;;Capilla;Badajoz;Lengua azul;1;04;Caprinos;21;0;09/12/2021
+;2021/114 ;Secundario;España;EXTREMADURA;CÁCERES;CACERES;;Monroy;Badajoz;Lengua azul;1;04;Bovinos;61;0;24/11/2021
+;2021/113 ;Secundario;España;EXTREMADURA;CÁCERES;CACERES;;Albalá;Badajoz;Lengua azul;1;04;Bovinos;115;0;24/11/2021
+;2021/95  ;Secundario;España;EXTREMADURA;BADAJOZ;AZUAGA;;Granja de Torrehermosa;Badajoz;Lengua azul;1;04;Caprinos;9;0;16/11/2021
+;2021/94  ;Secundario;España;EXTREMADURA;BADAJOZ;BADAJOZ;;Badajoz;Badajoz;Lengua azul;1;04;Bovinos;471;0;16/11/2021
+;2021/93  ;Secundario;España;EXTREMADURA;BADAJOZ;DON BENITO;;Don Benito;Badajoz;Lengua azul;1;04;Bovinos;160;0;16/11/2021
+;2021/70  ;Secundario;España;EXTREMADURA;BADAJOZ;CASTUERA;;Capilla;Badajoz;Lengua azul;1;04;Ovinos;2250;2;03/11/2021
+;2021/69  ;Secundario;España;EXTREMADURA;CÁCERES;TRUJILLO;;Almoharín;Badajoz;Lengua azul;1;04;Ovinos;491;35;04/11/2021
+;2021/68  ;Secundario;España;EXTREMADURA;CÁCERES;TRUJILLO;;Almoharín;Badajoz;Lengua azul;1;04;Ovinos;883;30;03/11/2021
+;2021/64  ;Secundario;España;EXTREMADURA;BADAJOZ;JEREZ DE LOS CABALLEROS;;Villanueva del Fresno;Badajoz;Lengua azul;1;04;Bovinos;216;6;14/10/2021
+;2021/63  ;Secundario;España;EXTREMADURA;BADAJOZ;JEREZ DE LOS CABALLEROS;;Villanueva del Fresno;Badajoz;Lengua azul;1;04;Bovinos;176;1;14/10/2021
+;2021/62  ;Secundario;España;EXTREMADURA;BADAJOZ;JEREZ DE LOS CABALLEROS;;Jerez de los Caballeros;Badajoz;Lengua azul;1;04;Bovinos;78;6;14/10/2021
+;2021/61  ;Secundario;España;EXTREMADURA;BADAJOZ;JEREZ DE LOS CABALLEROS;;Jerez de los Caballeros;Badajoz;Lengua azul;1;04;Bovinos;271;3;14/10/2021
+;2021/60  ;Secundario;España;EXTREMADURA;BADAJOZ;ZAFRA;;Santa Marta;Badajoz;Lengua azul;1;04;Bovinos;738;4;14/10/2021
+;2021/59  ;Secundario;España;EXTREMADURA;BADAJOZ;JEREZ DE LOS CABALLEROS;;Barcarrota;Badajoz;Lengua azul;1;04;Bovinos;497;1;14/10/2021
+;2021/56  ;Secundario;España;EXTREMADURA;BADAJOZ;DON BENITO;;Guareña;Badajoz;Lengua azul;1;04;Ovinos;31;5;08/10/2021
+;2021/55  ;Secundario;España;EXTREMADURA;BADAJOZ;ZAFRA;;Fuente de Cantos;Badajoz;Lengua azul;1;04;Caprinos;613;0;08/10/2021
+;2021/51  ;Secundario;España;EXTREMADURA;BADAJOZ;BADAJOZ;;Cheles;Badajoz;Lengua azul;1;04;Ovinos;1200;20;06/10/2021
+;2021/50  ;Secundario;España;EXTREMADURA;BADAJOZ;JEREZ DE LOS CABALLEROS;;Valencia del Mombuey;Badajoz;Lengua azul;1;04;Bovinos;210;0;01/10/2021
+;2021/49  ;Secundario;España;EXTREMADURA;BADAJOZ;ZAFRA;;Santos de Maimona, Los;Badajoz;Lengua azul;1;04;Bovinos;46;0;01/10/2021
+;2021/48  ;Secundario;España;EXTREMADURA;BADAJOZ;JEREZ DE LOS CABALLEROS;;Burguillos del Cerro;Badajoz;Lengua azul;1;04;Bovinos;202;0;01/10/2021
+;2021/42  ;Primario;España;EXTREMADURA;BADAJOZ;JEREZ DE LOS CABALLEROS;;Jerez de los Caballeros;Badajoz;Lengua azul;1;04;Bovinos;137;0;27/09/2021
+;2021/41  ;Secundario;España;EXTREMADURA;BADAJOZ;ZAFRA;;Montemolín;Badajoz;Lengua azul;1;04;Ovinos;1200;10;27/09/2021

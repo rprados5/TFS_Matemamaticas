@@ -1,0 +1,21 @@
+;;;;;;;;;;;;;;;;
+;Código;Tipo de foco;País;CCAA;Provincia;Comarca Ganadera (en focos nacionales);Región (en focos extranjeros);Municipio;UVL;Enfermedad;Nº de Especies Afectadas;Serotipo;Especie;Sensibles;Afectados;Fecha de confirmación
+;2022/71  ;Primario;España;EXTREMADURA;BADAJOZ;BADAJOZ;;Badajoz;Badajoz;Lengua azul;1;04;Caprinos;16;1;28/12/2022
+;2022/70  ;Primario;España;EXTREMADURA;BADAJOZ;CASTUERA;;Capilla;Badajoz;Lengua azul;1;04;Caprinos;10;4;22/12/2022
+;2022/65  ;Primario;España;EXTREMADURA;CÁCERES;NAVALMORAL DE LA MATA;;Garvín;Badajoz;Lengua azul;1;04;Silvestres (salvo jabalíes y aves);1;1;09/12/2022
+;2022/45  ;Primario;España;EXTREMADURA;CÁCERES;PLASENCIA;;Carcaboso;Badajoz;Lengua azul;1;04;Bovinos;145;4;11/11/2022
+;2022/44  ;Primario;España;EXTREMADURA;BADAJOZ;BADAJOZ;;Badajoz;Badajoz;Lengua azul;1;04;Caprinos;308;3;11/11/2022
+;2022/43  ;Primario;España;EXTREMADURA;CÁCERES;TRUJILLO;;Trujillo;Badajoz;Lengua azul;1;04;Bovinos;1786;1;11/11/2022
+;2022/31  ;Primario;España;EXTREMADURA;CÁCERES;VALENCIA DE ALCANTARA;;Membrío;Badajoz;Lengua azul;1;04;Ovinos;4770;27;02/11/2022
+;2022/24  ;Primario;España;EXTREMADURA;CÁCERES;CORIA;;Portezuelo;Badajoz;Lengua azul;1;04;Bovinos;357;10;21/10/2022
+;2022/17  ;Primario;España;EXTREMADURA;CÁCERES;CACERES;;Casar de Cáceres;Badajoz;Lengua azul;1;04;Bovinos;26;8;14/10/2022
+;2022/16  ;Primario;España;EXTREMADURA;CÁCERES;VALENCIA DE ALCANTARA;;Salorino;Badajoz;Lengua azul;1;04;Caprinos;614;3;14/10/2022
+;2022/15  ;Primario;España;EXTREMADURA;CÁCERES;NAVALMORAL DE LA MATA;;Rosalejo;Badajoz;Lengua azul;1;04;Caprinos;115;1;14/10/2022
+;2022/14  ;Primario;España;EXTREMADURA;CÁCERES;NAVALMORAL DE LA MATA;;Saucedilla;Badajoz;Lengua azul;1;04;Bovinos;132;5;14/10/2022
+;2022/13  ;Primario;España;EXTREMADURA;CÁCERES;VALENCIA DE ALCANTARA;;Membrío;Badajoz;Lengua azul;1;04;Bovinos;598;1;14/10/2022
+;2022/11  ;Primario;España;EXTREMADURA;CÁCERES;CORIA;;Coria;Badajoz;Lengua azul;1;04;Bovinos;278;6;15/09/2022
+;2022/9   ;Secundario;España;EXTREMADURA;CÁCERES;CORIA;;Coria;Badajoz;Lengua azul;1;04;Bovinos;323;0;17/02/2022
+;2022/8   ;Secundario;España;EXTREMADURA;CÁCERES;NAVALMORAL DE LA MATA;;Rosalejo;Badajoz;Lengua azul;1;04;Caprinos;117;0;17/02/2022
+;2022/10  ;Secundario;España;EXTREMADURA;CÁCERES;LOGROSAN (ZORITA);;Zorita;Badajoz;Lengua azul;1;04;Bovinos;205;0;17/02/2022
+;2022/7   ;Secundario;España;EXTREMADURA;CÁCERES;PLASENCIA;;Carcaboso;Badajoz;Lengua azul;1;04;Bovinos;129;0;17/02/2022
+;2022/6   ;Secundario;España;EXTREMADURA;CÁCERES;CACERES;;Casar de Cáceres;Badajoz;Lengua azul;1;04;Bovinos;21;0;08/02/2022
