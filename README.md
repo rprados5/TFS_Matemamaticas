@@ -1,4 +1,4 @@
-# TFS del grado de matematicas 
+# TFS del grado de matemáticas 
 
 Autor: Rafael Prados Martínez
 
