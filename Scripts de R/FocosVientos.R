@@ -105,6 +105,6 @@ while (i<=n_focos) {
 i<-i+1   
 }
 
-barplot(focos_viento_BA,names=viento, main="Número de focos por año")
+barplot(focos_viento_BA,names=viento, main="Número de focos en relación a la componente predominante del viento en Badajoz")
 
-barplot(focos_viento_CC,names=viento, main="Número de focos por año")
+barplot(focos_viento_CC,names=viento, main="Número de focos en relación a la componente predominante del viento en Cáceres")
