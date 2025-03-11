@@ -6,8 +6,8 @@
 func_focos <- function(focos) {
   
   focos_aux<-c(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0)
+  
 
-  posicion<-c(12,1,2,3,4,5,6,7,8,9,10,11)
   n<-nrow(focos)
   i<-1
   while(i<=n)
@@ -15,17 +15,17 @@ func_focos <- function(focos) {
     f<-month(as.Date(focos[i,17], format = '%d/%m/%Y'))
     if(focos[i,6]=='BADAJOZ')
     {
-      focos_aux[posicion[f]]<-focos_aux[posicion[f]]+1
+      focos_aux[f]<-focos_aux[f]+1
     }
     else
     {
-      focos_aux[posicion[f]+12]<-focos_aux[posicion[f]+12]+1
+      focos_aux[f+12]<-focos_aux[f+12]+1
     }
     
     i<-i+1
   }
   
-
+  
   
   return(focos_aux)
 }
