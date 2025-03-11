@@ -7,5 +7,5 @@ regresion<-lm(focos~TMin)
 plot(TMin, focos)
 abline(regresion, col="red")
 
-qqnorm(regresion$residuals, pch = 19, col = "gray50", main="Test de normalidad para TMin",xlab="Cuantiles Teóricos",ylab="Cuantiles TMin")
+qqnorm(regresion$residuals, pch = 19, col = "gray50", main="",xlab="Cuantiles Teóricos",ylab="Cuantiles TMin")
 qqline(regresion$residuals,col="red")

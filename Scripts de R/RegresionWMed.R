@@ -8,7 +8,7 @@ plot(WMed, focos)
 abline(regresion, col="red")
 
 
-qqnorm(regresion$residuals, pch = 19, col = "gray50", main="Test de normalidad para WMed",xlab="Cuantiles Teóricos",ylab="Cuantiles WMed")
+qqnorm(regresion$residuals, pch = 19, col = "gray50", main="",xlab="Cuantiles Teóricos",ylab="Cuantiles WMed")
 qqline(regresion$residuals,col="red")
 
 
